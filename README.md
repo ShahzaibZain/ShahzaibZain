@@ -34,6 +34,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/ShahzaibZain/ShahzaibZain/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ShahzaibZain/ShahzaibZain/blob/dist/github-contribution-grid-snake.svg)
  
 </div>
