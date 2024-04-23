@@ -1,5 +1,5 @@
 ## Hi, I am Shahzaib Zain! 
- <img align="right" height="150em" alt="Shahzaib Zain" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+ <img align="right" height="140em" alt="Shahzaib Zain" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
    <!--  <div>
   <a href="https://github.com/ShahzaibZain">
