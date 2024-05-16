@@ -28,10 +28,16 @@
 
 ## Contact 
 <div> 
-  <a href="https://www.linkedin.com/in/ShahzaibZain" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <!--<a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23000000?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
-  <a href="mailto:shahzaibzain290600@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
- </br>
+  <a href="https://www.linkedin.com/in/ShahzaibZain" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:shahzaibzain290600@gmail.com">
+    <img src="https://img.shields.io/badge/-Shoot%20me%20an%20Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<div style="margin-top: 20px;">
+  <h3>Let's build worlds together! 🎮</h3>
+  <p>Hey there! I'm Shahzaib Zain, a passionate game developer with experience in Unity and C#. I love bringing creative ideas to life through interactive experiences. Whether it's crafting immersive environments, designing captivating gameplay mechanics, or optimizing performance, I'm always up for the challenge.</p>
+  <p>Feel free to connect with me on LinkedIn or shoot me an email if you'd like to collaborate or just chat about game development. Let's create something amazing together!</p>
 </div>
