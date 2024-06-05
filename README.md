@@ -1,5 +1,5 @@
 ## Hi, I am Shahzaib Zain! 
- <img align="right" height="140em" alt="Shahzaib Zain" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+ <img align="right" height="140em" alt="Shahzaib Zain" src="http://studiopixel.in/wp-content/uploads/2017/11/18a4949fc9c8067172d3b96e302e7097.gif"> <img align="right" height="140em" alt="Shahzaib Zain" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
    <!--  <div>
   <a href="https://github.com/ShahzaibZain">
@@ -36,3 +36,16 @@
   <p>Hey there! I'm Shahzaib Zain, a passionate game developer with experience in Unity and C#. I love bringing creative ideas to life through interactive experiences. Whether it's crafting immersive environments, designing captivating gameplay mechanics, or optimizing performance, I'm always up for the challenge.</p>
   <p>Feel free to connect with me on LinkedIn or shoot me an email if you'd like to collaborate or just chat about game development. Let's create something amazing together!</p>
 </div>
+
+<!--<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rashid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaibzain&show_icons=true&hide_border=true" />
+
+</details>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Rashid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibzain" />
+
+</details>-->
