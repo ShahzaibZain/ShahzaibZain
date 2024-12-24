@@ -37,15 +37,14 @@
   <p>Feel free to connect with me on LinkedIn or shoot me an email if you'd like to collaborate or just chat about game development. Let's create something amazing together!</p>
 </div>
 
-
-###![Shahzaib Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahzaibZain&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibZain&layout=compact&theme=radical)
 
 
 <!--<details>
+
+###![Shahzaib Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahzaibZain&show_icons=true&theme=radical)
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Rashid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaibzain&show_icons=true&hide_border=true" />
