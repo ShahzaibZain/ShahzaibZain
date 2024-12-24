@@ -38,7 +38,7 @@
 </div>
 
 
-![Shahzaib Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahzaibZain&show_icons=true&theme=radical)
+###![Shahzaib Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahzaibZain&show_icons=true&theme=radical)
 
 ## Top Languages
 
